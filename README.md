@@ -1,11 +1,12 @@
 # termux-science-repo
 
 ## Instalation | Fix
-* build.sh
+* setup.sh [ Recommendated ]
+* build.sh [ Sceince Repo ]
 ```
 https://git.io/JZ9EC
 ```
-* clean.sh
+* clean.sh [ Clean Termux ]
 ```
 https://git.io/JZKq2
 ```
