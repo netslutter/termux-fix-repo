@@ -3,7 +3,7 @@
 ## Instalation | Fix
 * build.sh
 ```
-https://git.io/JZKto
+https://git.io/JZ9EC
 ```
 * clean.sh
 ```
